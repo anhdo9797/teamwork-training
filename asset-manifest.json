@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//anhdo9797.github.io/teamwork-teamwork-training/static/css/main.5f361e03.chunk.css",
+    "main.js": "/http//anhdo9797.github.io/teamwork-teamwork-training/static/js/main.f176dc64.chunk.js",
+    "main.js.map": "/http//anhdo9797.github.io/teamwork-teamwork-training/static/js/main.f176dc64.chunk.js.map",
+    "runtime-main.js": "/http//anhdo9797.github.io/teamwork-teamwork-training/static/js/runtime-main.292d11e1.js",
+    "runtime-main.js.map": "/http//anhdo9797.github.io/teamwork-teamwork-training/static/js/runtime-main.292d11e1.js.map",
+    "static/js/2.8b479baa.chunk.js": "/http//anhdo9797.github.io/teamwork-teamwork-training/static/js/2.8b479baa.chunk.js",
+    "static/js/2.8b479baa.chunk.js.map": "/http//anhdo9797.github.io/teamwork-teamwork-training/static/js/2.8b479baa.chunk.js.map",
+    "index.html": "/http//anhdo9797.github.io/teamwork-teamwork-training/index.html",
+    "precache-manifest.63165b86a53d8958506ae8a2744a4e00.js": "/http//anhdo9797.github.io/teamwork-teamwork-training/precache-manifest.63165b86a53d8958506ae8a2744a4e00.js",
+    "service-worker.js": "/http//anhdo9797.github.io/teamwork-teamwork-training/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/http//anhdo9797.github.io/teamwork-teamwork-training/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8b479baa.chunk.js.LICENSE.txt": "/http//anhdo9797.github.io/teamwork-teamwork-training/static/js/2.8b479baa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/http//anhdo9797.github.io/teamwork-teamwork-training/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.292d11e1.js",
+    "static/js/2.8b479baa.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f176dc64.chunk.js"
+  ]
+}
